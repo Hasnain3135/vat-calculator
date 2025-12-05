@@ -1,0 +1,2 @@
+image: hasnain313/vatcalc:<+pipeline.sequenceId>
+replicas: 1
